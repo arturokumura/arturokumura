@@ -12,7 +12,6 @@
 
 <h4 align="left">HARD SKILLS:</h4>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
@@ -53,7 +52,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&theme=cobalt" />
 </div>
 
 ###
