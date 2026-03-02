@@ -14,60 +14,27 @@
 
 ###
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"
-style="display:inline-block; transition: transform .2s;"
-onmouseover="this.style.transform='scale(1.2)'"
-onmouseout="this.style.transform='scale(1)'"/>
-
-</p>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+</div>
 ###
 
 <h4 align="left">CONECTE-SE COMIGO:</h4>
