@@ -1,0 +1,143 @@
+<h2 align="center">ARTUR OKUMURA 💻</h2>
+
+###
+
+<p align="left">Sou estudante de Engenharia de Software e desenvolvedor Back-End, apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes. Ao longo da minha trajetória, venho desenvolvendo habilidades voltadas à construção de sistemas robustos, escaláveis e bem estruturados, sempre aplicando boas práticas de desenvolvimento e foco em performance, organização e qualidade.<br>Busco criar soluções que agreguem valor real aos usuários e aos negócios, contribuindo para experiências digitais intuitivas, seguras e eficientes. Estou em constante evolução, aprendendo novas tecnologias e aprimorando minhas competências para atuar em projetos desafiadores e inovadores.</p>
+
+###
+
+<p align="left">• 🌐 Entre em contato comigo: arturokumura2008@gmail.com<br>• ⌨️ Possuo conhecimentos em Front-End, utilizando HTML e CSS para construção de interfaces estruturadas e responsivas.</p>
+
+###
+
+<h4 align="left">HARD SKILLS:</h4>
+
+###
+
+<div align="left">
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- IntelliJ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+  <img width="12" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+       height="30"
+       style="transition: transform .2s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+
+</div>
+
+###
+
+<h4 align="left">CONECTE-SE COMIGO:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arturokumura/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/artur.okr/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/arturokumura/arturokumura/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arturokumura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturokumura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
