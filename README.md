@@ -14,97 +14,59 @@
 
 ###
 
-<div align="left">
+<p align="left">
 
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <!-- Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"
+style="display:inline-block; transition: transform .2s;"
+onmouseover="this.style.transform='scale(1.2)'"
+onmouseout="this.style.transform='scale(1)'"/>
 
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-  <img width="12" />
-
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-  <img width="12" />
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-  <img width="12" />
-
-  <!-- IntelliJ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-  <img width="12" />
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-       height="30"
-       style="transition: transform .2s;"
-       onmouseover="this.style.transform='scale(1.2)'"
-       onmouseout="this.style.transform='scale(1)'"/>
-
-</div>
+</p>
 
 ###
 
