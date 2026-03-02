@@ -52,8 +52,7 @@
 ###
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=header&theme=cobalt" />
-</div>
+<img src="https://raw.githubusercontent.com/arturokumura/arturokumura/output/snake.svg" alt="Snake animation" /></div>
 
 ###
 
