@@ -63,9 +63,10 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arturokumura&show_icons=true&theme=dracula"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturokumura&layout=compact&theme=dracula"/>
+  <div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arturokumura&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturokumura&layout=compact&theme=tokyonight"/>
 </div>
+
 
 ###
