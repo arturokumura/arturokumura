@@ -58,8 +58,8 @@
 ###
 
  <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturokumura&show_icons=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturokumura&layout=compact" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arturokumura&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arturokumura&layout=compact&theme=dracula" />
 </p>
 
 
